@@ -53,3 +53,18 @@ Dane będą zapisywane w bazie danych, a aplikacja będzie odpowiadać za ich wy
 - Zajmie się logowaniem i bazą danych.
 
 Na koniec wspólnie sprawdzimy, czy wszystko działa poprawnie i poprawimy ewentualne błędy.
+
+wasd
+wasd
+wasd
+zxcz
+asdwa
+xczxc
+sa
+wad
+sxcz
+wada
+rarrar
+arcaxzz
+awdasf
+
